@@ -1,6 +1,6 @@
 <?php
 
 
-print "Hello World, Status Code 0";
+print "welcome to OCP first!!";
 
 ?>
