@@ -1,4 +1,3 @@
 <? php
-  print "Hello World";
-  print "Status Code 0";
+  print "Hello World, Status Code 0";
 ?>
