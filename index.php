@@ -2,7 +2,7 @@
 
 
 print "Hello World, Status Code 0";
-print "";
+print " \n";
 print "Process Successfull";
 
 ?>
